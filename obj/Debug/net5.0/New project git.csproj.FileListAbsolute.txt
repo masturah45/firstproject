@@ -1,0 +1,16 @@
+C:\Users\ADESANYA\Desktop\C#\New project git\bin\Debug\net5.0\New project git.exe
+C:\Users\ADESANYA\Desktop\C#\New project git\bin\Debug\net5.0\New project git.deps.json
+C:\Users\ADESANYA\Desktop\C#\New project git\bin\Debug\net5.0\New project git.runtimeconfig.json
+C:\Users\ADESANYA\Desktop\C#\New project git\bin\Debug\net5.0\New project git.runtimeconfig.dev.json
+C:\Users\ADESANYA\Desktop\C#\New project git\bin\Debug\net5.0\New project git.dll
+C:\Users\ADESANYA\Desktop\C#\New project git\bin\Debug\net5.0\ref\New project git.dll
+C:\Users\ADESANYA\Desktop\C#\New project git\bin\Debug\net5.0\New project git.pdb
+C:\Users\ADESANYA\Desktop\C#\New project git\obj\Debug\net5.0\New project git.csproj.AssemblyReference.cache
+C:\Users\ADESANYA\Desktop\C#\New project git\obj\Debug\net5.0\New project git.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADESANYA\Desktop\C#\New project git\obj\Debug\net5.0\New project git.AssemblyInfoInputs.cache
+C:\Users\ADESANYA\Desktop\C#\New project git\obj\Debug\net5.0\New project git.AssemblyInfo.cs
+C:\Users\ADESANYA\Desktop\C#\New project git\obj\Debug\net5.0\New project git.csproj.CoreCompileInputs.cache
+C:\Users\ADESANYA\Desktop\C#\New project git\obj\Debug\net5.0\New project git.dll
+C:\Users\ADESANYA\Desktop\C#\New project git\obj\Debug\net5.0\ref\New project git.dll
+C:\Users\ADESANYA\Desktop\C#\New project git\obj\Debug\net5.0\New project git.pdb
+C:\Users\ADESANYA\Desktop\C#\New project git\obj\Debug\net5.0\New project git.genruntimeconfig.cache
